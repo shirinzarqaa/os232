@@ -7,3 +7,11 @@ ZCZC W00 20 L10 Assignment #00
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 60 L09 Weekly Assignments
+ZCZC W01 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 10 L11 Assignment #01
+ZCZC W01 200 L83 Pets: visit veterinarian 
+ZCZC W01 30 L80 Watching: Tiktok
+ZCZC W01 20 L99 moderate dicussion quiz and grading student assignment calculus 2 
+ZCZC W01 30 L08 OS Chat related (LINE) with my friend
+ZCZC W01 20 L41 TXT/mylog.txt related.
+ZCZC W01 60 L84 Nap
