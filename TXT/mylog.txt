@@ -14,4 +14,4 @@ ZCZC W01 30 L80 Watching: Tiktok
 ZCZC W01 20 L99 moderate dicussion quiz and grading student assignment calculus 2 
 ZCZC W01 30 L08 OS Chat related (LINE) with my friend
 ZCZC W01 20 L41 TXT/mylog.txt related.
-ZCZC W01 60 L84 Nap
+ZCZC W01 60 L84 Nap/sleep
