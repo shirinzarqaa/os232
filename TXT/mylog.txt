@@ -39,6 +39,21 @@ ZCZC W03 30 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 20 L81 Listening: Radio, Music, etc.
+ZCZC W04 120 L14 Assignment #04
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 10 L44 TXT/myscript.sh related.
+ZCZC W04 10 L22 Linux CLI including tar, etc.
+ZCZC W04 10 L62 Backup Virtual Debian Guest
+ZCZC W04 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 60 L81 Listening: Radio, Music, etc.
+ZCZC W04 20 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W04 120 L84 Relax, Rest, Nap, and Sleep
+
+
+
+
+
 
 
 
