@@ -9,5 +9,6 @@ permalink: LINKS/
 * [Linux Crash Course](https://youtu.be/ROjZy1WbCIA?si=1bgrjTOqq9T24tCk) --- A Linux crash course is a quick and easy way for beginners to learn the basics of using the Linux operating system through the command line.
 * [link to fix hostname issue](https://www.cyberciti.biz/faq/how-to-change-hostname-on-debian-10-linux/) --- This a way to fix hostname issue if typo or do something wrong.
 * [GNU/Linux tutorials](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html) --- GNU/Linux tutorials covers various fundamental aspects of the system
+* [chgrp command in linux](https://www.geeksforgeeks.org/chgrp-command-in-linux-with-examples/) -- command linux tutorial how to change group ownership of directory
 <br>
 <hr>
