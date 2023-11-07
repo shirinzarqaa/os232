@@ -11,6 +11,6 @@ permalink: LINKS/
 * [GNU/Linux tutorials](https://www.debian.org/doc/manuals/debian-reference/ch01.en.html) --- GNU/Linux tutorials covers various fundamental aspects of the system
 * [chgrp command in linux](https://www.geeksforgeeks.org/chgrp-command-in-linux-with-examples/) ---- command linux tutorial how to change group ownership of directory
 * [fork() in C](https://www.geeksforgeeks.org/chgrp-command-in-linux-with-examples/) ---- creating a new process in linux using fork system call
-* [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux/) ---- Process synchronization in Linux involves providing a time slice for each process
+* [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux) ---- Process synchronization in Linux involves providing a time slice for each process
 <br>
 <hr>
