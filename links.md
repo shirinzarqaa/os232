@@ -12,5 +12,6 @@ permalink: LINKS/
 * [chgrp command in linux](https://www.geeksforgeeks.org/chgrp-command-in-linux-with-examples/) ---- command linux tutorial how to change group ownership of directory
 * [fork() in C](https://www.geeksforgeeks.org/chgrp-command-in-linux-with-examples/) ---- creating a new process in linux using fork system call
 * [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux) ---- Process synchronization in Linux involves providing a time slice for each process
+* [How to install Git LFS on Git LFS](https://dev.to/felipelujan/how-to-install-git-lfs-on-debian-10db) ---- Git LFS is a functionality of the well-known Source Control Management (SCM) technology that allows you to add large files in code repositories. From there, the LFS acronym, which means Large File System.
 <br>
 <hr>
