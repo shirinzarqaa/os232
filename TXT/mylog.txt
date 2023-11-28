@@ -99,3 +99,8 @@ ZCZC W09 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W09 100 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 ZCZC W09 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W09 60 L81 Listening: Radio, Music, etc.
+ZCZC W10 360 L20 Assignment #10
+ZCZC W10 10 L41 TXT/mylog.txt related.
+ZCZC W10 10 L42 TXT/mypubkey.txt related. See also L27.
+ZCZC W10 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W10 10 L44 TXT/myscript.sh related. See also L25, L24.
